@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjayini Banerjee</h1>
 
 <p align="center">
-  <img src="https://github.com/Ujjayini-101/Ujjayini-101/blob/main/GITHUB%20Banner.jpg" alt="Ujjayini Banerjee Banner" style="max-width: 101%;" />
+  <img src="https://github.com/Ujjayini-101/Ujjayini-101/blob/main/Github_Banner.png" alt="Ujjayini Banerjee Banner" style="max-width: 101%;" />
 </p>
 
 
