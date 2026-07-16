@@ -37,65 +37,90 @@ Building AI-powered products that solve real-world problems through intelligent 
 <br>
 
 
-## Tech Toolbox and Languages :
+## 💻 Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
 
-### 👨‍💻 Programming Languages
+<td width="50%" align="center" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql" />
+### Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 </p>
 
----
+</td>
 
-### 🎨 Frontend Development
+<td width="50%" align="center" valign="top">
 
-<p>
+### Frontend
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 </p>
 
----
+</td>
 
-### ⚙️ Backend Development
+</tr>
 
-<p>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### Backend
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask" />
 </p>
 
----
+</td>
 
-### 🗄️ Databases
+<td width="50%" align="center" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
----
+</td>
 
-### ☁️ Cloud & DevOps
+</tr>
 
-<p>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### Cloud & DevOps
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=gcp,git,github,linux,bash" />
 </p>
 
----
+</td>
 
-### 🤖 AI / Computer Vision
+<td width="50%" align="center" valign="top">
 
-<p>
+### AI / Computer Vision
 
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Agentic%20AI-4B8BBE?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge"/>
 
 </p>
 
-</div>
+</td>
+
+</tr>
+
+</table>
+
+---
 
 ---
 
@@ -127,7 +152,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
