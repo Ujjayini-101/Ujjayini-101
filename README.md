@@ -37,7 +37,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 <br>
 
 
-## 💻 Tech Stack
+## Tech Toolbox and Languages :
 
 <table width="100%">
 <tr>
