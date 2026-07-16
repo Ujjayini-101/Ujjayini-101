@@ -134,7 +134,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 <td width="50%" valign="top">
 
-<h2>🔍 VisuView AI</h2>
+<h2> VisuView AI</h2>
 
 <h3>Computer Vision-Based Visual Difference Engine</h3>
 
@@ -142,7 +142,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 🖼️ Detects structural and visual differences between images using Computer Vision.
 </p>
 
-<h3>✨ Highlights</h3>
+<h3> Highlights</h3>
 
 <ul>
 <li>AI-generated comparison summaries</li>
@@ -154,7 +154,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 <br>
 
-<h3>⚙️ Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 <p>
 
@@ -178,7 +178,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 <td width="50%" valign="top">
 
-<h2>🤖 ViscaraiAssist</h2>
+<h2> ViscaraiAssist</h2>
 
 <h3>AI Career Readiness Platform</h3>
 
@@ -186,7 +186,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 AI-powered career preparation platform with mock interviews, aptitude tests and personalized interview guidance.
 </p>
 
-<h3>✨ Highlights</h3>
+<h3> Highlights</h3>
 
 <ul>
 <li>AI Interview Screening</li>
@@ -198,7 +198,7 @@ AI-powered career preparation platform with mock interviews, aptitude tests and 
 
 <br>
 
-<h3>⚙️ Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 <p>
 
@@ -226,7 +226,7 @@ AI-powered career preparation platform with mock interviews, aptitude tests and 
 
 <td width="50%" valign="top">
 
-<h2>✈️ Tragency AI</h2>
+<h2> Tragency AI</h2>
 
 <h3>Multi-Agent Travel Planning Platform</h3>
 
@@ -234,7 +234,7 @@ AI-powered career preparation platform with mock interviews, aptitude tests and 
 Agentic AI-powered intelligent travel planning platform that generates personalized itineraries.
 </p>
 
-<h3>✨ Highlights</h3>
+<h3> Highlights</h3>
 
 <ul>
 <li>Multi-Agent Architecture</li>
@@ -246,7 +246,7 @@ Agentic AI-powered intelligent travel planning platform that generates personali
 
 <br>
 
-<h3>⚙️ Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 <p>
 
@@ -270,7 +270,7 @@ Agentic AI-powered intelligent travel planning platform that generates personali
 
 <td width="50%" valign="top">
 
-<h2>🌐 Novaistic</h2>
+<h2> Novaistic</h2>
 
 <h3>AI-Powered Modern Web Platform</h3>
 
@@ -278,7 +278,7 @@ Agentic AI-powered intelligent travel planning platform that generates personali
 Building scalable modern web applications with AI-powered workflows and responsive user experiences.
 </p>
 
-<h3>✨ Highlights</h3>
+<h3> Highlights</h3>
 
 <ul>
 <li>Modern UI</li>
@@ -318,7 +318,7 @@ Building scalable modern web applications with AI-powered workflows and responsi
 
 ---
 
-# 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -350,7 +350,7 @@ Building scalable modern web applications with AI-powered workflows and responsi
 
 ---
 
-# 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
 
