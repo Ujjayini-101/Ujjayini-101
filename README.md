@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on : [Novaistic.in] (https://github.com/Ujjayini-101/novaistic_project)
 
-- 🌱 I’m currently learning : **Javascript,React,NextJs,MongoDB.**
+- 🌱 I’m currently learning : **Data Structure & Algorithm, React, NextJs, MongoDB.**
 
 - 📫 How to reach me : **banerjeeujjayini20@gmail.com**
 
