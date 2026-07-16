@@ -33,7 +33,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 - 📫 How to reach me : **banerjeeujjayini20@gmail.com**
 
-- 📄 Know about my experiences : [https://drive.google.com/file/d/1n1tLsB44co6jK9mAU_vurL7gvo-7ZH_z/view?usp=sharing](https://drive.google.com/file/d/1n1tLsB44co6jK9mAU_vurL7gvo-7ZH_z/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1n1tLsB44co6jK9mAU_vurL7gvo-7ZH_z/view?usp=sharing](https://drive.google.com/file/d/1xzmSMGOzHSlrzNvZ2o69MQN9Rwms3KDN/view?usp=sharing)
 <br>
 
 
