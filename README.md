@@ -146,7 +146,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 <td width="50%">
 
-## 🔍 VisuView AI
+## VisuView AI
 ### Computer Vision-Based Visual Difference Engine
 
 🖼️ Detects structural and visual differences between images using Computer Vision.
@@ -175,7 +175,7 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 <td width="50%">
 
-## 🤖 ViscaraiAssist
+## ViscaraiAssist
 ### AI Career Readiness Platform
 
 AI-powered career preparation platform with mock interviews and aptitude assessment.
@@ -214,7 +214,7 @@ AI-powered career preparation platform with mock interviews and aptitude assessm
 
 <td width="50%">
 
-## ✈️ Tragency AI
+## Tragency AI
 ### Multi-Agent Travel Planning Platform
 
 An Agentic AI platform for intelligent travel planning.
@@ -243,7 +243,7 @@ An Agentic AI platform for intelligent travel planning.
 
 <td width="50%">
 
-## 🌐 Novaistic
+## Novaistic
 
 ### AI-Powered Modern Web Platform
 
@@ -310,6 +310,26 @@ Building scalable modern web applications with AI-powered workflows.
 
 ---
 
+# 💡 Developer Philosophy
+
+<div align="center">
+
+> *"I believe technology should solve meaningful real-world problems. Whether it's AI, Computer Vision, or Full Stack Development, I enjoy transforming ideas into impactful products while continuously learning and collaborating with the developer community."*
+
+</div>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ujjayini-101/Ujjayini-101/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+> **Note:** You'll need to configure a GitHub Actions workflow to generate the snake animation automatically.
+
+---
+
 # 🌐 Let's Connect
 
 <p align="center">
@@ -331,35 +351,5 @@ Building scalable modern web applications with AI-powered workflows.
 </a>
 
 </p>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-> *"I believe technology should solve meaningful real-world problems. Whether it's AI, Computer Vision, or Full Stack Development, I enjoy transforming ideas into impactful products while continuously learning and collaborating with the developer community."*
-
-</div>
-
----
-
-# 📈 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ujjayini-101/Ujjayini-101/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</p>
-
-> **Note:** You'll need to configure a GitHub Actions workflow to generate the snake animation automatically.
-
----
-
-# ❤️ Thanks for Visiting
-
-<div align="center">
-
-### ⭐ If you like my work, consider following me and exploring my repositories!
 
 </div>
