@@ -99,18 +99,6 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ujjayini-101&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjayini-101&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -141,139 +129,191 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 # 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## VisuView AI
-### Computer Vision-Based Visual Difference Engine
+<h2>🔍 VisuView AI</h2>
 
+<h3>Computer Vision-Based Visual Difference Engine</h3>
+
+<p>
 🖼️ Detects structural and visual differences between images using Computer Vision.
+</p>
 
-### ✨ Highlights
+<h3>✨ Highlights</h3>
 
-- 🔹 AI-generated comparison summaries
-- 🔹 Dual Portal Architecture
-- 🔹 Automated Visual Inspection
-- 🔹 Industry-ready inspection workflow
-- 🔹 National Finalist - TrackShift Hackathon 2025
+<ul>
+<li>AI-generated comparison summaries</li>
+<li>Dual Portal Architecture</li>
+<li>Automated Visual Inspection</li>
+<li>Industry-ready inspection workflow</li>
+<li>National Finalist – TrackShift Hackathon 2025</li>
+</ul>
 
-### ⚙️ Tech Stack
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+<h3>⚙️ Tech Stack</h3>
 
-### 🔗 Links
+<p>
 
-<a href="https://github.com/Ujjayini-101">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+</p>
+
+<br><br>
+
+<a href="YOUR_VISUVIEW_REPO">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## ViscaraiAssist
-### AI Career Readiness Platform
+<h2>🤖 ViscaraiAssist</h2>
 
-AI-powered career preparation platform with mock interviews and aptitude assessment.
+<h3>AI Career Readiness Platform</h3>
 
-### ✨ Highlights
+<p>
+AI-powered career preparation platform with mock interviews, aptitude tests and personalized interview guidance.
+</p>
 
-- 🔹 AI Interview Screening
-- 🔹 Skill Gap Analysis
-- 🔹 Personalized Recommendations
-- 🔹 Interactive Mock Interviews
-- 🔹 Modular Backend APIs
+<h3>✨ Highlights</h3>
 
-### ⚙️ Tech Stack
+<ul>
+<li>AI Interview Screening</li>
+<li>Skill Gap Analysis</li>
+<li>Personalized Recommendations</li>
+<li>Interactive Mock Interviews</li>
+<li>Modular Backend APIs</li>
+</ul>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<br>
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+<h3>⚙️ Tech Stack</h3>
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+<p>
 
-### 🔗 Links
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<a href="https://github.com/Ujjayini-101">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</p>
+
+<br><br>
+
+<a href="YOUR_VISCARAIASSIST_REPO">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
 
 </tr>
-</table>
 
----
-
-<table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## Tragency AI
-### Multi-Agent Travel Planning Platform
+<h2>✈️ Tragency AI</h2>
 
-An Agentic AI platform for intelligent travel planning.
+<h3>Multi-Agent Travel Planning Platform</h3>
 
-### ✨ Highlights
+<p>
+Agentic AI-powered intelligent travel planning platform that generates personalized itineraries.
+</p>
 
-- 🔹 Multi-Agent Architecture
-- 🔹 Intelligent Itinerary Generator
-- 🔹 Budget Optimization
-- 🔹 Personalized Recommendations
-- 🔹 Automated Task Coordination
+<h3>✨ Highlights</h3>
 
-### ⚙️ Tech Stack
+<ul>
+<li>Multi-Agent Architecture</li>
+<li>AI Trip Planning</li>
+<li>Budget Optimization</li>
+<li>Personalized Recommendations</li>
+<li>Automated Travel Workflow</li>
+</ul>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+<br>
 
-![AI](https://img.shields.io/badge/Agentic_AI-4B8BBE?style=flat-square)
+<h3>⚙️ Tech Stack</h3>
 
-### 🔗 Links
+<p>
 
-<a href="https://github.com/Ujjayini-101">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-5B5FEF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+</p>
+
+<br><br>
+
+<a href="YOUR_TRAGENCY_REPO">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## Novaistic
+<h2>🌐 Novaistic</h2>
 
-### AI-Powered Modern Web Platform
+<h3>AI-Powered Modern Web Platform</h3>
 
-Building scalable modern web applications with AI-powered workflows.
+<p>
+Building scalable modern web applications with AI-powered workflows and responsive user experiences.
+</p>
 
-### ✨ Highlights
+<h3>✨ Highlights</h3>
 
-- 🔹 Modern UI
-- 🔹 Authentication
-- 🔹 Responsive Design
-- 🔹 Scalable Backend
-- 🔹 AI Integration
+<ul>
+<li>Modern UI</li>
+<li>Authentication</li>
+<li>Responsive Design</li>
+<li>Scalable Backend</li>
+<li>AI Integration</li>
+</ul>
 
-### ⚙️ Tech Stack
+<br>
 
-![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+<h3>⚙️ Tech Stack</h3>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+<p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
 
-### 🔗 Links
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<a href="https://github.com/Ujjayini-101/novaistic_project">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+</p>
+
+<br><br>
+
+<a href="YOUR_NOVAISTIC_REPO">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -294,23 +334,7 @@ Building scalable modern web applications with AI-powered workflows.
 
 ---
 
-# 🏅 Certifications & Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20Cloud-Arcade%20Trooper-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IBM-AI%20Bootcamp-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TrackShift-National%20Finalist-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GFG-Event%20Lead-2F80ED?style=for-the-badge"/>
-
-</div>
-
----
-
-# 💡 Developer Philosophy
+## My Core Philosophy
 
 <div align="center">
 
@@ -320,13 +344,9 @@ Building scalable modern web applications with AI-powered workflows.
 
 ---
 
-# 📈 Contribution Snake
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ujjayini-101/Ujjayini-101/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
-
-> **Note:** You'll need to configure a GitHub Actions workflow to generate the snake animation automatically.
 
 ---
 
