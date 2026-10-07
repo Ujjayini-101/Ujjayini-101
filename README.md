@@ -134,16 +134,6 @@ Building AI-powered products that solve real-world problems through intelligent 
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjayini-101&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 ## Profile Views
 
 <div align="center">
